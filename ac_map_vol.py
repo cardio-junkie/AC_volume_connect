@@ -61,5 +61,6 @@ for arrays in [array1, array2]:
     print("Volume {} connected to hostgroup {} on array {} ".format(
         pod_vol_name, hostgroup, array_info2['array_name']))
 '''
+# git test 
 
 
